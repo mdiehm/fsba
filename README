@@ -1,0 +1,11 @@
+FSBA - Filesystem Based Administration
+======================================
+
+FSBA is an extension above the the shell layer to allow directory oriented
+Unix remote administration. The software is part of the master thesis published
+at: http://mischa.mailq.de/thesis.pdf (German only)
+
+This software is a prototype implementation.
+
+Installation instructions can be found in the thesis document at chapter 5.5
+
